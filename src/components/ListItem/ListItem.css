@@ -1,0 +1,12 @@
+input[type='text'] {
+    border: 1px solid navy;
+}
+
+.img-box {
+    max-width: 150px;
+    margin-left: 1rem;
+}
+img {
+    width: 100%;
+    max-width: 100%;
+}
