@@ -15,7 +15,7 @@ class App extends Component {
   }
 
   async getData() {
-      const resp = await fetch('/data.json');
+      const resp = await fetch('listData.json');
       return resp.json();
   };
 
